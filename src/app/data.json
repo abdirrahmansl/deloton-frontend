@@ -1,0 +1,179 @@
+{
+"Leaderboard": [
+{
+"Name": "Jane Martin",
+"Position": "1",
+"Ride count": "16",
+"Rider Id": "4816"
+},
+{
+"Name": "Christine Parsons",
+"Position": "2",
+"Ride count": "12",
+"Rider Id": "4806"
+},
+{
+"Name": "Molly Jenkins",
+"Position": "3",
+"Ride count": "10",
+"Rider Id": "4795"
+},
+{
+"Name": "Gordon Savage",
+"Position": "4",
+"Ride count": "9",
+"Rider Id": "4809"
+},
+{
+"Name": "Carolyn Lewis",
+"Position": "5",
+"Ride count": "8",
+"Rider Id": "4804"
+},
+{
+"Name": "Leslie Campbell",
+"Position": "6",
+"Ride count": "8",
+"Rider Id": "4812"
+},
+{
+"Name": "Liam Brown",
+"Position": "7",
+"Ride count": "8",
+"Rider Id": "4799"
+},
+{
+"Name": "Arthur Weston",
+"Position": "8",
+"Ride count": "7",
+"Rider Id": "4800"
+},
+{
+"Name": "Raymond Steele",
+"Position": "9",
+"Ride count": "7",
+"Rider Id": "4813"
+},
+{
+"Name": "Malcolm Robson",
+"Position": "10",
+"Ride count": "6",
+"Rider Id": "4796"
+},
+{
+"Name": "Simon Power",
+"Position": "11",
+"Ride count": "5",
+"Rider Id": "4811"
+},
+{
+"Name": "Martin Taylor-King",
+"Position": "12",
+"Ride count": "5",
+"Rider Id": "4823"
+},
+{
+"Name": "Jane Morton",
+"Position": "13",
+"Ride count": "5",
+"Rider Id": "4798"
+},
+{
+"Name": "Harry Gibbons",
+"Position": "14",
+"Ride count": "5",
+"Rider Id": "4817"
+},
+{
+"Name": "Trevor Cooper-Russell",
+"Position": "15",
+"Ride count": "5",
+"Rider Id": "4815"
+},
+{
+"Name": "George Brown",
+"Position": "16",
+"Ride count": "5",
+"Rider Id": "4792"
+},
+{
+"Name": "Adrian Brookes",
+"Position": "17",
+"Ride count": "5",
+"Rider Id": "4819"
+},
+{
+"Name": "Clifford Lloyd",
+"Position": "18",
+"Ride count": "5",
+"Rider Id": "4805"
+},
+{
+"Name": "Anthony Johnson",
+"Position": "19",
+"Ride count": "4",
+"Rider Id": "4802"
+},
+{
+"Name": "Brandon Grant",
+"Position": "20",
+"Ride count": "4",
+"Rider Id": "4826"
+},
+{
+"Name": "Joan Griffiths",
+"Position": "21",
+"Ride count": "4",
+"Rider Id": "4801"
+},
+{
+"Name": "Wendy Green",
+"Position": "22",
+"Ride count": "4",
+"Rider Id": "4825"
+},
+{
+"Name": "Ben Powell",
+"Position": "23",
+"Ride count": "4",
+"Rider Id": "4793"
+},
+{
+"Name": "Elliott King",
+"Position": "24",
+"Ride count": "3",
+"Rider Id": "4794"
+},
+{
+"Name": "Sam Lloyd",
+"Position": "25",
+"Ride count": "3",
+"Rider Id": "4808"
+},
+{
+"Name": "Lydia Jones",
+"Position": "26",
+"Ride count": "3",
+"Rider Id": "4810"
+},
+{
+"Name": "Timothy Banks-Smith",
+"Position": "27",
+"Ride count": "2",
+"Rider Id": "4822"
+},
+{
+"Name": "Yvonne Fraser",
+"Position": "28",
+"Ride count": "2",
+"Rider Id": "4818"
+},
+{
+"Name": "Lynda Wood",
+"Position": "29",
+"Ride count": "2",
+"Rider Id": "4807"
+}
+],
+"success": true
+}
