@@ -6,19 +6,20 @@ import {
   Tr,
   Th,
   Td,
+  TableCaption,
   TableContainer,
 } from '@chakra-ui/react'
 import riders from "./data.json"
 
 
-export default function Some({localData}: any){
-
+export default function Some(){
     return (
         <>
         <div>
         <TableContainer>
             <Table variant='simple'>
-                    <Thead>
+                    <TableCaption placement='top' textDecoration='underline' mb={10} fontWeight='bold' >Ride Leaderboard</TableCaption>
+                    <Thead >
                         <Tr>
                             <Th>
                                 Position
@@ -31,16 +32,15 @@ export default function Some({localData}: any){
                             </Th>
                         </Tr>
                     </Thead>
-                      <Tbody>
+                      <Tbody >
             {riders["Leaderboard"]?.slice(0, 10).map((r: Record<string, any>) => (
-              <Tr key={r.id}>
-                <Td>{r.Position}</Td>
-                <Td>{r.Name}</Td>
-                <Td>{r["Ride count"]}</Td>
+              <Tr key={r.id} >
+                <Td align='center'>{r.Position}</Td>
+                <Td align='center'>{r.Name}</Td>
+                <Td align='center'>{r["Ride count"]}</Td>
               </Tr>
             ))}
           </Tbody>
-
             </Table>
         </TableContainer>
         </div>
