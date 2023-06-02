@@ -18,7 +18,7 @@ export default function Some(){
         <div>
         <TableContainer>
             <Table variant='simple'>
-                    <TableCaption placement='top' textDecoration='underline' mb={10} fontWeight='bold' >Ride Leaderboard</TableCaption>
+                    <TableCaption placement='top' textDecoration='underline' mb={20} fontWeight='bold' >Ride Leaderboard</TableCaption>
                     <Thead >
                         <Tr>
                             <Th>
@@ -50,4 +50,3 @@ export default function Some(){
     )
     }
 
-    // 105 187 119
